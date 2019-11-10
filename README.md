@@ -23,7 +23,7 @@ https://youtu.be/mceSoc96Y9M
 		* python -m pip install MetaTrader5
 		* python -m pip install pytz
 		* python -m pip install pandas
-###### Talves seja necessário instalar o pacote da microsoft runtime c++. Quem já tem Visual Studio na máquina não precisa instalar.
+###### Talvez seja necessário instalar o pacote da microsoft runtime c++. Quem já tem Visual Studio na máquina não precisa instalar.
 ###### https://www.microsoft.com/pt-br/download/details.aspx?id=48145
 
 ###### Link de onde foram tirados os exemplos.
