@@ -25,4 +25,7 @@ Video do programa rodando (Também não sei gravar video, mas vai esse mesmo):
 ###### Talves seja necessário instalar o pacote da microsoft runtime c++. Quem já tem Visual Studio na máquina não precisa instalar.
 ###### https://www.microsoft.com/pt-br/download/details.aspx?id=48145
 
+###### Link de onde foram tirados os exemplos.
+###### https://www.mql5.com/pt/docs/integration/python_metatrader5
+
 Não sou especialista em Python, então não reparem no código. 
