@@ -16,6 +16,7 @@ Arquivo inicia a coleta da informações do Times & Trades: python 02_MT5_Exampl
 #### Observação: É necessário que o MetaTrader5 esteja aberto e conectado a corretora. (Sei que parece óbvio, mas é bom lembrar)
 
 Video do programa rodando (Também não sei gravar video, mas vai esse mesmo):
+https://youtu.be/mceSoc96Y9M
 
 ### Bibliotecas necessárias para os exemplos
 	* Instalando bibliotecas
