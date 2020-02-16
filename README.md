@@ -1,4 +1,5 @@
 ## Esse código parou de funcionar com a versão mais recente da biblioteca MetaTrader5. O codigo está funcional até a versão 5.0.6
+## O Arquivo 01_MT5_Example_Atualizado.py está atualizado com a versão 5.0.19 (É necessário atualizar o metatrader também) 
 
 # FinancialDataMT5
 Exemplos de integração com Metatrader 5
