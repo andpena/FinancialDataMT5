@@ -1,4 +1,4 @@
-## Esse código parou de funcionar com a versão mais recente da bibliote MetaTrader5. O codigo está funcional até a versão 5.0.6
+## Esse código parou de funcionar com a versão mais recente da biblioteca MetaTrader5. O codigo está funcional até a versão 5.0.6
 
 # FinancialDataMT5
 Exemplos de integração com Metatrader 5
